@@ -29,10 +29,10 @@
     NSDictionary *applicationDictionary = @{@"first_name" : @"Ariel",
                                             @"last_name" : @"Scott-Dicker",
                                             @"email" : @"ArielSD@gmail.com",
-                                            @"position_ID" : @"IOS",
+                                            @"position_id" : @"IOS",
                                             @"explanation" : @"Originally, I sent a test through Postman (Yup, that was me). Then, I encoded the PDF using NSData, and made the POST request using AFNetworking",
-                                            @"projects" : @[@"https://github.com/ArielSD", @"Here's the link to my code: ",@"Applying through an API is really cool, by the way"],
-                                            @"source" : @"A friend of mine who is a recruiter",
+                                            @"projects" : @[@"https://github.com/ArielSD", @"Here's the link to my code for this application: https://goo.gl/9kLheU",@"Applying through an API is really cool, by the way"],
+                                            @"source" : @"A friend of mine who's a recruiter",
                                             @"resume" : base64EncodedResumeString
                                             };
     
